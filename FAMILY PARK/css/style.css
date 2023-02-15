@@ -96,7 +96,7 @@ hr {
 }
 
 .btn {
-    transform: translate(1550% ,10%);
+    transform: translate(1350% ,10%);
     position: fixed;
 }
 
@@ -109,7 +109,7 @@ hr {
     position: absolute;
 }
 #banner {
-    transform: translate(390% , 30px);
+    transform: translate(350% , 30px);
     display: none;
 }
 
